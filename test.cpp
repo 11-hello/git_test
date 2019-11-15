@@ -5,7 +5,8 @@
 //
 //
 // ------ test1.cpp test2.cpp -----
-// ------ test merge2 ------
+//
+// ------ test merge1 merge2 -------
 //
 //
 //
